@@ -37,4 +37,8 @@ function getTeam($password) {
 	return $map[$password];
 }
 
+function checkJudgingPassword($password) {
+	return $password == "scratchrox";
+}
+
 ?>
