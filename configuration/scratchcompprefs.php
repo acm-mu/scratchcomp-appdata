@@ -38,7 +38,7 @@ function getTeam($password) {
 }
 
 function checkJudgingPassword($password) {
-	return $password == "scratchrox";
+	return $password == "muscratchiscool";
 }
 
 ?>
